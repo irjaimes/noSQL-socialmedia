@@ -1,7 +1,7 @@
 {
   "name": "noSQL-socialmedia",
   "version": "1.0.0",
-  "description": "",
+  "description": "API routes for a social network web application where users can share their thoughts, react to friends’ thoughts, and befriend other users.",
   "main": "index.js",
   "dependencies": {
     "dotenv": "^9.0.1",
